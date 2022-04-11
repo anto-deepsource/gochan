@@ -24,5 +24,5 @@ name = "sql"
 enabled = true
 
 exclude_patterns = [
-  "html/**"
+  "html/js/*"
 ]
